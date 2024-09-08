@@ -8,8 +8,6 @@ let age = "20";
 console.log("Hello! I am " + name + ";" + age + "years old. ");
 
 console.log("USING NUMBERS");
-const a = 1 ;
-const b = 2 ;
 
 const sum = x + y;
 console.log(sum);
